@@ -1,5 +1,3 @@
-{
-"products" : [
 {"id":1,"first_name":"Cormorant, great","category":"Pink"},
 {"id":2,"first_name":"Zebra, plains","category":"Aquamarine"},
 {"id":3,"first_name":"Seal, common","category":"Indigo"},
@@ -1001,4 +999,3 @@
 {"id":999,"first_name":"Vulture, white-headed","category":"Teal"},
 {"id":1000,"first_name":"Possum, pygmy","category":"Aquamarine"}
 ]
-}
