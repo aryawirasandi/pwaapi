@@ -1,4 +1,6 @@
-[{"id":1,"first_name":"Cormorant, great","category":"Pink"},
+{
+"products" : [
+{"id":1,"first_name":"Cormorant, great","category":"Pink"},
 {"id":2,"first_name":"Zebra, plains","category":"Aquamarine"},
 {"id":3,"first_name":"Seal, common","category":"Indigo"},
 {"id":4,"first_name":"Squirrel, richardson's ground","category":"Purple"},
@@ -997,4 +999,6 @@
 {"id":997,"first_name":"Small-toothed palm civet","category":"Aquamarine"},
 {"id":998,"first_name":"Red-winged hawk (unidentified)","category":"Aquamarine"},
 {"id":999,"first_name":"Vulture, white-headed","category":"Teal"},
-{"id":1000,"first_name":"Possum, pygmy","category":"Aquamarine"}]
+{"id":1000,"first_name":"Possum, pygmy","category":"Aquamarine"}
+]
+}
